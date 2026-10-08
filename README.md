@@ -138,10 +138,6 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com?user=harjassunejagit&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harjassunejagit&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
 ---
 
 ### 🐍 Watch the snake eat my contributions
