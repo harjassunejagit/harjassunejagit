@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=640&lines=Teaching+machines+to+read+MRI+scans+%F0%9F%A7%A0;Scoring+trust+on+the+blockchain+%E2%9B%93%EF%B8%8F;Hunting+CVEs+through+call+graphs+%F0%9F%94%8D;Shipping+full-stack+apps+end+to+end+%F0%9F%9A%80" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=640&lines=Teaching+machines+to+read+MRI+scans+%F0%9F%A7%A0;Scoring+trust+on+the+blockchain+%E2%9B%93%EF%B8%8F;Learning+to+ship+on+AWS+%E2%98%81%EF%B8%8F;Shipping+full-stack+apps+end+to+end+%F0%9F%9A%80" alt="typing intro" />
   </a>
 </p>
 
@@ -25,9 +25,9 @@
 
 I'm a **Computer Science undergrad at VIT Chennai**, specialising in **AI & Machine Learning** (class of 2028).
 
-I'm drawn to problems where models meet messy real-world data: **brain MRI scans, patient similarity graphs, blockchain transactions and vulnerable dependency trees**. I don't stop at the notebook. I build the backend, the API and the UI around a model so people can actually use it.
+I'm drawn to problems where models meet messy real-world data: **brain MRI scans, patient similarity graphs, blockchain transactions and vulnerable dependency trees**. I don't stop at the notebook. I love **web development**, so I build the backend, the API and the UI around a model so people can actually use it.
 
-Right now I'm deep into **ML for software security**, and contributing to open source through **GSSoC 2026**.
+These days I'm diving into **cloud**. I'm studying **AWS** this semester and getting hooked on how real apps are deployed and scaled.
 
 </td>
 <td width="42%" valign="top">
@@ -37,32 +37,38 @@ Right now I'm deep into **ML for software security**, and contributing to open s
 🎓 B.Tech CSE (AI & ML) · VIT Chennai<br/>
 💼 Data Analytics Intern · SSOL India<br/>
 🌱 GSSoC '26 · AI/Agent + Open Source<br/>
-🏆 Best Gemini Prompt Award · Yuva Hackathon<br/>
-🔬 Into: Medical AI · Graph ML · AppSec<br/>
-💬 Ask me about: GNNs, FastAPI, 3D U-Nets
+🥇 1st Place (Gemma) · Hacktoberfest Hack Day Chennai<br/>
+🌐 Builds with: React · Next.js · FastAPI<br/>
+☁️ Currently learning: AWS & cloud deployment<br/>
+🧠 Also into: Medical AI · Graph ML
 
 </td>
 </tr>
 </table>
 
-## ✨ Highlights
+## 🏆 Wins
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>97%</h3>
-fraud-detection accuracy on Ethereum addresses with an XGBoost ensemble
+<h3>🥇 1st Place</h3>
+<b>Gemma track</b><br/>
+Hacktoberfest Hack Day Chennai
 </td>
 <td align="center" width="33%">
-<h3>~60%</h3>
-faster inference in MediSync AI via precomputed graph embeddings
+<h3>🥉 3rd Place</h3>
+<b>Open Source track</b><br/>
+Hacktoberfest Hack Day Chennai
 </td>
 <td align="center" width="33%">
-<h3>4 MRI</h3>
-modalities fused for 3D brain tumor segmentation
+<h3>🏅 Best Prompt</h3>
+<b>Best Gemini Prompt Award</b><br/>
+Yuva Hackathon
 </td>
 </tr>
 </table>
+
+<sub>Hacktoberfest Hack Day Chennai was organised by Android Club VIT Chennai with Major League Hacking (MLH) at VIT Chennai.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,50:9333ea,100:ec4899&height=3" width="100%" />
 
