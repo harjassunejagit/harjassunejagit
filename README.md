@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=640&lines=Teaching+machines+to+read+MRI+scans+%F0%9F%A7%A0;Scoring+trust+on+the+blockchain+%E2%9B%93%EF%B8%8F;Learning+to+ship+on+AWS+%E2%98%81%EF%B8%8F;Shipping+full-stack+apps+end+to+end+%F0%9F%9A%80" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=620&height=50&lines=Hey+there%2C+I%27m+Harjas!;AI+%2F+ML+Engineer+in+the+making;Full-Stack+Web+Developer;Exploring+AWS+%26+the+Cloud;Hackathon+Winner+%E2%80%A2+Open+Source+Contributor" alt="typing intro" />
   </a>
 </p>
 
