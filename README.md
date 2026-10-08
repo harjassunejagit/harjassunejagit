@@ -244,7 +244,3 @@ Full-stack e-commerce app with cart, order tracking, an admin dashboard and **JW
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:9333ea,100:4f46e5&height=120&section=footer&text=Let's%20build%20something%20cool%20together&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" alt="footer" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harjassunejagit&label=visitors&color=9333ea&style=flat-square" alt="visitors" />
-</p>
